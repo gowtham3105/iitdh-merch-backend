@@ -19,4 +19,5 @@ from .views import *
 
 urlpatterns = [
     path('getOrder/', getOrder, name='getOrder'),
+    path('markOrder/', markOrder, name='markOrder'),
 ]

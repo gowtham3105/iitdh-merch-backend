@@ -21,12 +21,11 @@ class Order(models.Model):
     payment_id = models.CharField(max_length=100, blank=False)
 
     product = models.ForeignKey(Product, on_delete=models.RESTRICT, blank=False)
-    product_size = models.CharField(max_length=50, choices=[('S', 'Small'), ('M', 'Medium'), ('L', 'Large'),
+    product_size = models.CharField(max_length=50, choices=[('XS', ' Extra Small'), ('S', 'Small'), ('M', 'Medium'), ('L', 'Large'),
                                                             ('XL', 'Extra Large'), ('XXL', 'Extra Extra Large')],
                                     blank=False)
 
-    quantity = models.IntegerField(default=1, blank=False)
-    order_amount = models.IntegerField(blank=False)
+    address = models.CharField(max_length=150, blank=False, default=None, null=True)
 
     order_date_time = models.DateTimeField(blank=False, default=None, null=True)
     order_status = models.CharField(max_length=100, blank=False, choices=[('Confirmed', 'Confirmed'),
