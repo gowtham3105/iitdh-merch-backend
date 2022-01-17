@@ -36,7 +36,7 @@ We have used django framework for the backend.
 
 ### Loading Data
 
-Run `python manage.py run_tasks` to load the data from the csv files.
+Run `python manage.py process_tasks` to load the data from the csv files.
 
 ### Deploying
 
