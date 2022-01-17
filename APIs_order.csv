@@ -1,0 +1,175 @@
+id,name,phone,email,order_id,payment_id,product_size,order_status,product_id,order_date_time,address
+303,Vaishnavi Patil,7038411894,180020039@iitdh.ac.in,order_IcpoRhBb4V4RaB,pay_IcpqHO5dn2dMRy,XS,Confirmed,HB,2021-12-28 14:20:54.000000 +00:00,"Flat no. D-12,Parsvnath Pratishtha,Purnanagar,Chinchwad,Pune"
+229,Ritvik,7674801822,koduriritvik0207@gmail.com,order_Ibz53dKYdPVBqf,pay_Ibz5jPLqdDiT0d,M,Confirmed,HB,2021-12-26 10:44:46.000000 +00:00,
+158,Koosu Viswas,9063607819,210030016@iitdh.ac.in,order_IaW4J57Fhx9ZQ2,pay_IaW4No4WXag1Iq,XL,Confirmed,HB,2021-12-22 17:42:22.000000 +00:00,
+159,Koosu Viswas,9063607819,210030016@iitdh.ac.in,order_IaW4J57Fhx9ZQ2,pay_IaW4No4WXag1Iq,XL,Confirmed,TW,2021-12-22 17:42:22.000000 +00:00,
+160,Koosu Viswas,9063607819,210030016@iitdh.ac.in,order_IaW4J57Fhx9ZQ2,pay_IaW4No4WXag1Iq,XL,Confirmed,TB21,2021-12-22 17:42:22.000000 +00:00,
+161,Koosu Viswas,9063607819,210030016@iitdh.ac.in,order_IaW4J57Fhx9ZQ2,pay_IaW4No4WXag1Iq,XL,Confirmed,TR,2021-12-22 17:42:22.000000 +00:00,
+162,Kadimi Sasika,8125599997,210020016@iitdh.ac.in,order_Iauf9tvByRbXKy,pay_IaufiK6NIrz0gE,M,Confirmed,TW,2021-12-23 17:46:22.000000 +00:00,
+163,Kadimi Sasika,8125599997,210020016@iitdh.ac.in,order_Iauf9tvByRbXKy,pay_IaufiK6NIrz0gE,M,Confirmed,HB,2021-12-23 17:46:22.000000 +00:00,
+165,Marri Poojitha ,6281482510,210020027@iitdh.ac.in,order_IaYypqzFxkYIiP,pay_IaYyv5KTewYYwD,XXL,Confirmed,HB,2021-12-22 20:33:17.000000 +00:00,
+166,Marri Poojitha ,6281482510,210020027@iitdh.ac.in,order_IaYypqzFxkYIiP,pay_IaYyv5KTewYYwD,XL,Confirmed,TW,2021-12-22 20:33:17.000000 +00:00,
+167,Marri Poojitha ,6281482510,210020027@iitdh.ac.in,order_IaYypqzFxkYIiP,pay_IaYyv5KTewYYwD,XL,Confirmed,TB21,2021-12-22 20:33:17.000000 +00:00,
+168,G Amarendra,9381740402,210020011@iitdh.ac.in,order_IaXUrazOXtinf6,pay_IaXWCoNmkWd5iI,L,Confirmed,HB,2021-12-22 19:07:25.000000 +00:00,
+169,G Amarendra,9381740402,210020011@iitdh.ac.in,order_IaXUrazOXtinf6,pay_IaXWCoNmkWd5iI,L,Confirmed,TB21,2021-12-22 19:07:25.000000 +00:00,
+170,Revanth palaparthi ,7981579453,210010043@iitdh.ac.in,order_IaXNKKIHlyMvVP,pay_IaXPArSlfI5MCi,XL,Confirmed,HB,2021-12-22 19:00:47.000000 +00:00,
+171,Revanth palaparthi ,7981579453,210010043@iitdh.ac.in,order_IaXNKKIHlyMvVP,pay_IaXPArSlfI5MCi,L,Confirmed,TW,2021-12-22 19:00:47.000000 +00:00,
+172,Revanth palaparthi ,7981579453,210010043@iitdh.ac.in,order_IaXNKKIHlyMvVP,pay_IaXPArSlfI5MCi,XL,Confirmed,TB21,2021-12-22 19:00:47.000000 +00:00,
+173,Hari Prasad P,9444970464,200030021@iitdh.ac.in,order_Iav8FpjruBCHIG,pay_Iav8RVApp3FpJO,S,Confirmed,HB,2021-12-23 18:13:33.000000 +00:00,
+174,Hari Prasad P,9444970464,200030021@iitdh.ac.in,order_Iav8FpjruBCHIG,pay_Iav8RVApp3FpJO,S,Confirmed,TR,2021-12-23 18:13:33.000000 +00:00,
+175,Anasuri Naga Sai Dharmasastha ,9110771419,210150002@iitdh.ac.in,order_IaWtZK8RbLdP3V,pay_IaWuC87M1GN50b,XL,Confirmed,TB21,2021-12-22 18:31:25.000000 +00:00,
+176,Anasuri Naga Sai Dharmasastha ,9110771419,210150002@iitdh.ac.in,order_IaWtZK8RbLdP3V,pay_IaWuC87M1GN50b,XL,Confirmed,HB,2021-12-22 18:31:25.000000 +00:00,
+177,SREE NAGA MANIKANTA KATTA,8106616168,210010050@iitdh.ac.in,order_IaX0EyZEEHBCbz,pay_IaX0SfVMbiMlXh,XXL,Confirmed,TB21,2021-12-22 18:37:21.000000 +00:00,
+178,SREE NAGA MANIKANTA KATTA,8106616168,210010050@iitdh.ac.in,order_IaX0EyZEEHBCbz,pay_IaX0SfVMbiMlXh,XXL,Confirmed,HB,2021-12-22 18:37:21.000000 +00:00,
+179,Chebrolu Asha Shiny ,8790157960,210010010@iitdh.ac.in,order_IaZQEQmZHzc0ry,pay_IaZQTenEApx2Rd,M,Confirmed,HB,2021-12-22 20:59:22.000000 +00:00,
+180,Chebrolu Asha Shiny ,8790157960,210010010@iitdh.ac.in,order_IaZQEQmZHzc0ry,pay_IaZQTenEApx2Rd,M,Confirmed,TB21,2021-12-22 20:59:22.000000 +00:00,
+181,H S SAIGAGAN,9880419977,200030023@iitdh.ac.in,order_IayJ1FhbzdB8PE,pay_IayJQkl1QomkvL,S,Confirmed,HB,2021-12-23 21:20:02.000000 +00:00,
+182,H S SAIGAGAN,9880419977,200030023@iitdh.ac.in,order_IayJ1FhbzdB8PE,pay_IayJQkl1QomkvL,S,Confirmed,TR,2021-12-23 21:20:02.000000 +00:00,
+183,Shreesh Singh,7905264084,210020045@iitdh.ac.in,order_IawbzaKDhAC4jI,pay_IawcU0xwE7pK0B,L,Confirmed,HB,2021-12-23 19:40:41.000000 +00:00,
+184,Devdatt N,9961431389,200010012@iitdh.ac.in,order_IawlUrE160w9FG,pay_IawlbUNI1Au48v,M,Confirmed,TB20,2021-12-23 19:49:19.000000 +00:00,
+185,Devdatt N,9961431389,200010012@iitdh.ac.in,order_IawlUrE160w9FG,pay_IawlbUNI1Au48v,S,Confirmed,TB21,2021-12-23 19:49:19.000000 +00:00,
+186,Devdatt N,9961431389,200010012@iitdh.ac.in,order_IawlUrE160w9FG,pay_IawlbUNI1Au48v,M,Confirmed,HB,2021-12-23 19:49:19.000000 +00:00,
+187,Devdatt N,9961431389,200010012@iitdh.ac.in,order_IawlUrE160w9FG,pay_IawlbUNI1Au48v,M,Confirmed,TW,2021-12-23 19:49:19.000000 +00:00,
+188,Lakshman Allaka,9154962110,lakshmanallaka18@gmail.com,order_IbEZbxum0VWhvy,pay_IbEbKGZ3KwEHON,M,Confirmed,HB,2021-12-24 13:16:05.000000 +00:00,
+189,MOULI VENKATA PRAKASH PITTALA,9014664501,200020027@iitdh.ac.in,order_IayWwMSfnjDlYA,pay_IayXH87fo89eum,S,Confirmed,TR,2021-12-23 21:33:09.000000 +00:00,
+190,ISHIKA SHARMA,6367114719,200010020@iitdh.ac.in,order_IbbGBezGBxtxae,pay_IbbIxphTdwksJu,S,Confirmed,TB20,2021-12-25 11:28:39.000000 +00:00,
+191,ISHIKA SHARMA,6367114719,200010020@iitdh.ac.in,order_IbbGBezGBxtxae,pay_IbbIxphTdwksJu,S,Confirmed,TW,2021-12-25 11:28:39.000000 +00:00,
+192,ISHIKA SHARMA,6367114719,200010020@iitdh.ac.in,order_IbbGBezGBxtxae,pay_IbbIxphTdwksJu,S,Confirmed,HB,2021-12-25 11:28:39.000000 +00:00,
+193,Swapnesh Sinha,8240210207,swapneshsinha2442@gmail.com,order_Ibajwj6qlnA6IC,pay_Ibalr3rDClaXxI,XL,Confirmed,HB,2021-12-25 10:57:18.000000 +00:00,
+194,Tharun Kodati,6304365557,210030015@iitdh.ac.in,order_IbZASWhLZufdXK,pay_IbZAc4pDbLbMnV,XL,Confirmed,HB,2021-12-25 09:23:21.000000 +00:00,
+195,BORELLA BHARATH CHANDRA ,9391188575,200020011@iitdh.ac.in,order_IbLvpSatumCqsk,pay_IbLvxwX3uiZuut,XL,Confirmed,TB20,2021-12-24 20:26:28.000000 +00:00,
+196,BORELLA BHARATH CHANDRA ,9391188575,200020011@iitdh.ac.in,order_IbLvpSatumCqsk,pay_IbLvxwX3uiZuut,XL,Confirmed,HB,2021-12-24 20:26:28.000000 +00:00,
+197,Dhanush Bestha,06305591327,200020009@iitdh.ac.in,order_IbKuY5M3r0Ktii,pay_IbKuluWK4104GX,XL,Confirmed,TR,2021-12-24 19:26:39.000000 +00:00,
+198,Sanchi Sujith kumar,8143710340,210010047@iitdh.ac.in,order_IbKvJUQ9p4kH6X,pay_IbKvSXYoRB2edg,XL,Confirmed,HB,2021-12-24 19:27:18.000000 +00:00,
+199,Jaya Surya Putti,6305692471,210020040@iitdh.ac.in,order_IbL0DsyhyPBuOL,pay_IbL1XVSX82ZY4B,M,Delivered,TR,2021-12-24 19:33:04.000000 +00:00,
+200,Jaya Surya Putti,6305692471,210020040@iitdh.ac.in,order_IbL0DsyhyPBuOL,pay_IbL1XVSX82ZY4B,M,Delivered,HB,2021-12-24 19:33:04.000000 +00:00,
+164,N.Suheeth,6309243668,200030038@iitdh.ac.in,order_IauByR6B5jkHGV,pay_IauCGmWTAsMZoV,L,Confirmed,HB,2021-12-23 17:18:29.000000 +00:00,
+204,Battina Pushpa Parvathi,7013798259,210010009@iitdh.ac.in,order_Ibf0MYrV52Qp86,pay_Ibf3h9T8azLlU1,S,Confirmed,TR,2021-12-25 15:08:58.000000 +00:00,
+201,Jaya Surya Putti,6305692471,210020040@iitdh.ac.in,order_IbL0DsyhyPBuOL,pay_IbL1XVSX82ZY4B,M,Delivered,TW,2021-12-24 19:33:04.000000 +00:00,
+203,Pochimireddy Nikhileswar Reddy,9390566177,200010040@iitdh.ac.in,order_IbL6pcogtYTCke,pay_IbL7FtfMNWZVES,XL,Confirmed,TR,2021-12-24 19:38:28.000000 +00:00,
+208,Aryan Trimukhe ,7875466103,200010053@iitdh.ac.in,order_IbfH6sw2GnBdta,pay_IbfHE5yuQfAvbw,M,Confirmed,HB,2021-12-25 15:21:47.000000 +00:00,
+209,Chaudhari Harsh Pareshbhai,9054741525,200010007@iitdh.ac.in,order_IbfEiCJXRUvQI8,pay_IbfF0daeMVrazp,L,Confirmed,HB,2021-12-25 15:19:41.000000 +00:00,
+210,Agrim Jain,9528876421,210010003@iitdh.ac.in,order_IbfGwFQgK7vAaJ,pay_IbfHOBwuGCz2rp,L,Confirmed,HB,2021-12-25 15:21:56.000000 +00:00,
+211,Agrim Jain,9528876421,210010003@iitdh.ac.in,order_IbfGwFQgK7vAaJ,pay_IbfHOBwuGCz2rp,L,Confirmed,TR,2021-12-25 15:21:56.000000 +00:00,
+212,Vedant Wagh,9833190246,210030046@iitdh.ac.in,order_IblRC8ViVXzlLF,pay_IblSqN1J1gRBNA,L,Confirmed,TB21,2021-12-25 21:24:56.000000 +00:00,
+213,MADDHIPATLA BALA VENKATA KALYAN ,8500539803,210020024@iitdh.ac.in,order_Iby8iLknhuCO16,pay_Iby9RpufNiUGzh,XXL,Confirmed,TB21,2021-12-26 09:49:36.000000 +00:00,
+214,MADDHIPATLA BALA VENKATA KALYAN ,8500539803,210020024@iitdh.ac.in,order_Iby8iLknhuCO16,pay_Iby9RpufNiUGzh,XXL,Confirmed,HB,2021-12-26 09:49:36.000000 +00:00,
+215,MADDHIPATLA BALA VENKATA KALYAN ,8500539803,210020024@iitdh.ac.in,order_Iby8iLknhuCO16,pay_Iby9RpufNiUGzh,XXL,Confirmed,TW,2021-12-26 09:49:36.000000 +00:00,
+216,MADDHIPATLA BALA VENKATA KALYAN ,8500539803,210020024@iitdh.ac.in,order_Iby8iLknhuCO16,pay_Iby9RpufNiUGzh,XXL,Confirmed,TR,2021-12-26 09:49:36.000000 +00:00,
+217,PRINCE PATEL,9389944606,210030025@iitdh.ac.in,order_Ibnq8KO70i4AZm,pay_IbnqKb6cCZ35Hs,S,Confirmed,TR,2021-12-25 23:44:33.000000 +00:00,
+218,PRINCE PATEL,9389944606,210030025@iitdh.ac.in,order_Ibnq8KO70i4AZm,pay_IbnqKb6cCZ35Hs,M,Confirmed,HB,2021-12-25 23:44:33.000000 +00:00,
+219,Praneeth Karthikeya Indana,6301101900,210020014@iitdh.ac.in,order_IbybNhVtSTDpP7,pay_Ibybt4fKDFYHke,XXL,Confirmed,HB,2021-12-26 10:16:31.000000 +00:00,
+221,Chalumuri Sai Yeswanth,7995758423,200010006@iitdh.ac.in,order_IbKw1qK2ojqXHE,pay_IbL0XN5loqHwsb,XL,Confirmed,TR,2021-12-24 19:32:06.000000 +00:00,
+222,Dhriti Ranjan Dolai,8105889621,dhriti@iitdh.ac.in,order_IbKoVGwuI5tBVl,pay_IbKoeYG4T85na4,L,Confirmed,TB21,2021-12-24 19:20:51.000000 +00:00,
+223,Dhriti Ranjan Dolai,8105889621,dhriti@iitdh.ac.in,order_IbKoVGwuI5tBVl,pay_IbKoeYG4T85na4,XXL,Confirmed,TR,2021-12-24 19:20:51.000000 +00:00,
+224,Jatin Lather,09990885158,latherkaramvir@gmail.com,order_IbhbW0shHReTol,pay_IbhdHYwSAl65V9,L,Confirmed,HB,2021-12-25 17:40:03.000000 +00:00,
+225,Jatin Lather,09990885158,latherkaramvir@gmail.com,order_IbhbW0shHReTol,pay_IbhdHYwSAl65V9,L,Confirmed,TR,2021-12-25 17:40:03.000000 +00:00,
+226,Saipavan Ramavathu,7995851481,210030051@iitdh.ac.in,order_Ibng2xkHpBtRII,pay_IbngIWHpaPG64B,XL,Confirmed,TB21,2021-12-25 23:35:03.000000 +00:00,
+227,Saipavan Ramavathu,7995851481,210030051@iitdh.ac.in,order_Ibng2xkHpBtRII,pay_IbngIWHpaPG64B,XL,Confirmed,HB,2021-12-25 23:35:03.000000 +00:00,
+220,Atharv  Gade,8767113488,atharvgade3119@gmail.com,order_IbyarzKWS6SNtm,pay_IbybSBD2oT6yf9,L,Confirmed,HB,2021-12-26 10:16:06.000000 +00:00,
+230,Dodda Sakeena Sadhika,09392854767,210010062@iitdh.ac.in,order_Ibz0a6WY9xpXEg,pay_Ibz0nZrSrqkV8P,XL,Confirmed,HB,2021-12-26 10:40:06.000000 +00:00,
+231,Harsh Vardhan Chowdhary,8112412263,210030013@iitdh.ac.in,order_Ibyvi8vN2A2l6X,pay_IbywnNyMFkdBWX,XL,Confirmed,HB,2021-12-26 10:36:19.000000 +00:00,
+232,Sanjana Mittapally,9491824995,210030020@iitdh.ac.in,order_IbzDwCFfFdXv6x,pay_IbzFY8duwgf69O,XL,Confirmed,HB,2021-12-26 10:54:04.000000 +00:00,
+233,Rahul,9666167870,210010012@iitdh.ac.in,order_Ibz9THdLjOUbR5,pay_Ibz9m5U3vONEYW,S,Confirmed,HB,2021-12-26 10:48:36.000000 +00:00,
+234,Chitra S Asangi,9019737276,210030007@iitdh.ac.in,order_IbzvJuklq3LrTK,pay_IbzwGi7ixWXbAH,L,Confirmed,HB,2021-12-26 11:34:30.000000 +00:00,
+235,THEERTHA P BIJU,7012446554,210030040@iitdh.ac.in,order_Ic0BOjW9sjZEXK,pay_Ic0BfFyggJa7aY,L,Confirmed,HB,2021-12-26 11:49:04.000000 +00:00,
+236,Taruni,09790853125,193111002@iitdh.ac.in,order_Ic6NVBaWqejXvM,pay_Ic6OfQHAneLgOK,S,Confirmed,TR,2021-12-26 17:53:33.000000 +00:00,
+237,ANSH VIVEK,8130370625,210020002@iitdh.ac.in,order_Ic6tbAxshMAMrv,pay_Ic6twiJAQToYcm,M,Confirmed,HB,2021-12-26 18:23:09.000000 +00:00,
+238,ANSHIF,9497070727,210150004@iitdh.ac.in,order_Ic8FVbK2FfKTLL,pay_Ic8FiGJaHwhtN1,S,Confirmed,TB21,2021-12-26 19:42:27.000000 +00:00,
+239,ANSHIF,9497070727,210150004@iitdh.ac.in,order_Ic8FVbK2FfKTLL,pay_Ic8FiGJaHwhtN1,S,Confirmed,HB,2021-12-26 19:42:27.000000 +00:00,
+240,P Aditya,6304567946,211021002@iitdh.ac.in,order_Ic8LmuLXmLFREb,pay_Ic8MN0NyV5l4v4,M,Confirmed,TR,2021-12-26 19:48:46.000000 +00:00,
+241,Gurvir Singh,8544807288,210020012@iitdh.ac.in,order_Ic9fAjgPMqq5NE,pay_Ic9fQWE4Th3KMx,XL,Confirmed,TB21,2021-12-26 21:05:30.000000 +00:00,
+242,Aryan Sharma,8887815624,210010007@iitdh.ac.in,order_IcB0ni5F61qxoD,pay_IcB1A5bwVHYtNz,L,Confirmed,TB21,2021-12-26 22:24:46.000000 +00:00,
+243,Aryan Sharma,8887815624,210010007@iitdh.ac.in,order_IcB0ni5F61qxoD,pay_IcB1A5bwVHYtNz,L,Confirmed,TR,2021-12-26 22:24:46.000000 +00:00,
+244,Aryan Sharma,8887815624,210010007@iitdh.ac.in,order_IcB0ni5F61qxoD,pay_IcB1A5bwVHYtNz,L,Confirmed,HB,2021-12-26 22:24:46.000000 +00:00,
+245,Prajwal Biradar ,9686779781,Prajwal.Biradar@gmail.com,order_IcBblZ6OAg87lu,pay_IcBdENRyvYoQGw,XL,Confirmed,TB21,2021-12-26 23:00:48.000000 +00:00,
+246,Prajwal Biradar ,9686779781,Prajwal.Biradar@gmail.com,order_IcBblZ6OAg87lu,pay_IcBdENRyvYoQGw,XL,Confirmed,TR,2021-12-26 23:00:48.000000 +00:00,
+247,Prajwal Biradar ,9686779781,Prajwal.Biradar@gmail.com,order_IcBblZ6OAg87lu,pay_IcBdENRyvYoQGw,XL,Confirmed,HB,2021-12-26 23:00:48.000000 +00:00,
+248,Adityaram Jogadenu,9014597093,200020004@iitdh.ac.in,order_IcBucCi0ApxV3Y,pay_IcBuktnF9WBNfQ,XXL,Confirmed,TB20,2021-12-26 23:17:23.000000 +00:00,
+249,Adityaram Jogadenu,9014597093,200020004@iitdh.ac.in,order_IcBqTwLoikzGRg,pay_IcBqm2wH1DadXa,XXL,Confirmed,TB20,2021-12-26 23:13:37.000000 +00:00,
+250,Adityaram Jogadenu,9014597093,200020004@iitdh.ac.in,order_IcBqTwLoikzGRg,pay_IcBqm2wH1DadXa,XXL,Confirmed,HB,2021-12-26 23:13:37.000000 +00:00,
+251,Adityaram Jogadenu,9014597093,200020004@iitdh.ac.in,order_IcBqTwLoikzGRg,pay_IcBqm2wH1DadXa,XXL,Confirmed,TR,2021-12-26 23:13:37.000000 +00:00,
+252,Siddhartha Prasad ,8709161747,prasadsiddhartha2002@gmail.com,order_IdvT50Ipy82ooe,pay_IdvUTuIVkE6snF,M,Confirmed,HB,2021-12-31 08:31:25.000000 +00:00,
+253,Siddhartha Prasad ,8709161747,prasadsiddhartha2002@gmail.com,order_IdvT50Ipy82ooe,pay_IdvUTuIVkE6snF,M,Confirmed,TW,2021-12-31 08:31:25.000000 +00:00,
+254,Aditya Kumar Singh,8630251794,210030001@iitdh.ac.in,order_IcSzFU6EHWHyqk,pay_IcSzK5rxHfENSe,L,Confirmed,HB,2021-12-27 15:59:30.000000 +00:00,
+255,Ashis Pradhan,9148022994,210020003@iitdh.ac.in,order_Ic6zPJbuplpIoj,pay_Ic7439uo6te5LS,L,Confirmed,HB,2021-12-26 18:32:43.000000 +00:00,
+256,Bandi Hema Varshitha,9502128918,210020005@iitdh.ac.in,order_IbxpgL6ds5B3zq,pay_IbxpsC5Toj6VGX,S,Confirmed,HB,2021-12-26 09:31:04.000000 +00:00,
+257,Ajay C M,8861779910,203121001@iitdh.ac.in,order_IbcUxxlPQzVAet,pay_IbcV95I9bV9HP9,M,Confirmed,HB,2021-12-25 12:38:52.000000 +00:00,
+259,DUDDU HRIDAY,9491124286,210010016@iitdh.ac.in,order_IavYD4oPPWI3jQ,pay_IavYNDW6Efx7DW,XL,Confirmed,HB,2021-12-23 18:38:06.000000 +00:00,
+260,Vedant Wagh,7506598882,210030046@iitdh.ac.in,order_Ic2U1yJiTsQDEY,pay_Ic2VOZjgfW4mGj,L,Confirmed,HB,2021-12-26 14:05:09.000000 +00:00,
+261,Srihari K G,09902260373,210030035@iitdh.ac.in,order_Ic2YAkSJgc3g4d,pay_Ic2YQPLaAMXtbQ,XL,Confirmed,HB,2021-12-26 14:08:01.000000 +00:00,
+262,Srihari K G,09902260373,210030035@iitdh.ac.in,order_Ic2YAkSJgc3g4d,pay_Ic2YQPLaAMXtbQ,XL,Confirmed,TR,2021-12-26 14:08:01.000000 +00:00,
+263,Vivek Sunil Gaikwad,9172055252,210010059@iitdh.ac.in,order_Ic39FxNJkyfaAj,pay_Ic39i229liWwdW,L,Confirmed,HB,2021-12-26 14:43:18.000000 +00:00,
+264,Vivek Sunil Gaikwad,9172055252,210010059@iitdh.ac.in,order_Ic39FxNJkyfaAj,pay_Ic39i229liWwdW,M,Confirmed,TB21,2021-12-26 14:43:18.000000 +00:00,
+265,Prasad  More,8652220222,prathammore@yahoo.co.in,order_Ic7wsnX6r3MMjR,pay_Ic7xAZZfHVjnop,M,Confirmed,HB,2021-12-26 19:24:54.000000 +00:00,
+266,Sarth Rajain,9876673792,210010048@iitdh.ac.in,order_Ic7ohpejl5KV9L,pay_Ic7pUSSt3dsG1z,XL,Confirmed,HB,2021-12-26 19:17:38.000000 +00:00,
+267,Gangadhar Reddy,9392427119,210010036@iitdh.ac.in,order_YwimekOeuj,pay_TObBgofVFO,S,Confirmed,HB,2021-12-26 11:06:23.000000 +00:00,
+268,Vivek pillai,7760084563,210010058@iitdh.ac.in,order_WbBTXjBkan,pay_XaywAKrWVN,XXL,Confirmed,HB,2021-12-26 11:09:53.000000 +00:00,
+269,Abhiram k,7338402390,210150001@iitdh.ac.in,order_lSjZWvoqxO,pay_KnChVENkZp,M,Confirmed,HB,2021-12-26 11:12:07.000000 +00:00,
+270,Darshan,8080657141,210030008@iitdh.ac.in,order_MIhbPjeLUp,pay_JETptbGJRs,L,Confirmed,TW,2021-12-26 11:14:22.000000 +00:00,
+271,Nishant koyalwar,9067420032,210020020@iitdh.ac.in,order_xzXMHIomyc,pay_LLUCXIGDOP,L,Confirmed,TW,2021-12-26 11:28:14.000000 +00:00,
+272,Nishant koyalwar,9067420032,210020020@iitdh.ac.in,order_xzXMHIomyc,pay_LLUCXIGDOP,L,Confirmed,HB,2021-12-26 11:28:14.000000 +00:00,
+273,Byndla Karthik Kumar,8639773146,210020006@iitdh.ac.in,order_ECoHfokcLp,pay_CJhHxIOeVy,L,Confirmed,TW,2021-12-26 11:29:38.000000 +00:00,
+274,TEJAS MHAISKAR,7741898114,210030039@iitdh.ac.in,order_CcmoKXwIql,pay_lImCRPHFOP,L,Confirmed,HB,2021-12-26 11:34:01.000000 +00:00,
+275,Pathlavath Hemanth Nayak,9697979652,210010035@iitdh.ac.in,order_TmlZJONAzF,pay_vQHfOQJRNc,L,Confirmed,HB,2021-12-26 11:37:09.000000 +00:00,
+276,Sunay Patil,9307220098,210010052@iitdh.ac.in,order_VgQsTPDKfd,pay_vswyqrmrhG,M,Confirmed,TB21,2021-12-26 11:42:09.000000 +00:00,
+277,Sunay Patil,9307220098,210010052@iitdh.ac.in,order_VgQsTPDKfd,pay_vswyqrmrhG,M,Confirmed,HB,2021-12-26 11:42:09.000000 +00:00,
+278,Pranathi ,9502205330,210010037@iitdh.ac.in,order_bCLeIkbEni,pay_rggmfQCaFs,L,Confirmed,TB21,2021-12-26 16:15:12.000000 +00:00,
+279,Shrika,7569117254,210020019@iitdh.ac.in,order_bUrZgYVbTh,pay_tYqQqgchlY,M,Confirmed,HB,2021-12-26 16:16:01.000000 +00:00,
+280,Udaykiran bokka,9381694595,190010010@iitdh.ac.in,order_IbIX7XL9ufzf4h,pay_IbIXZFzlm4KLOV,L,Confirmed,HB,2021-12-24 17:07:18.000000 +00:00,"Houseno-(10-3-68 ) teachers colony ,east maredpally near Andhra bank"
+258,Pilli Hamsini,9989382040,210010038@iitdh.ac.in,order_Ic00ubzXGBZgxD,pay_Ic02DgHGkhLtBB,XL,Confirmed,HB,2021-12-26 11:40:08.000000 +00:00,
+281,Siddharth Patra ,09449007416,190030039@iitdh.ac.in,order_IbOzprs4xe1wcR,pay_IbP0PKRFLsGcMO,L,Confirmed,HB,2021-12-24 23:26:45.000000 +00:00,"D28 BEL colony Jalahalli
+Behind BEL club"
+282,Akshay Kiran Jose,9400670457,190020003@iitdh.ac.in,order_Ic47sNm5dE5j8p,pay_Ic495UAolOAY2B,XXL,Confirmed,HB,2021-12-26 15:41:25.000000 +00:00,"Pullorkudy House, Chanappara, Kanichar P.O"
+284,Abhinav Soni,09752558999,190030002@iitdh.ac.in,order_Ib1TPFkmZ3R7HI,pay_Ib1TU836QeMcg3,M,Confirmed,TR,2021-12-24 00:25:38.000000 +00:00,"LINK ROAD SADAR MAHAVIR WARD, BETUL"
+285,Abhinav Soni,09752558999,190030002@iitdh.ac.in,order_Ib1TPFkmZ3R7HI,pay_Ib1TU836QeMcg3,M,Confirmed,TW,2021-12-24 00:25:38.000000 +00:00,"LINK ROAD SADAR MAHAVIR WARD, BETUL"
+286,Abhinav Soni,09752558999,190030002@iitdh.ac.in,order_Ib1TPFkmZ3R7HI,pay_Ib1TU836QeMcg3,M,Confirmed,TB21,2021-12-24 00:25:38.000000 +00:00,"LINK ROAD SADAR MAHAVIR WARD, BETUL"
+287,Abhinav Soni,09752558999,190030002@iitdh.ac.in,order_Ib1TPFkmZ3R7HI,pay_Ib1TU836QeMcg3,M,Confirmed,HB,2021-12-24 00:25:38.000000 +00:00,"LINK ROAD SADAR MAHAVIR WARD, BETUL"
+288,Aneesh Bendale,9820967750,190020005@iitdh.ac.in,order_IbZzstFlvaBfiN,pay_Iba1IUE5PTKBTV,L,Confirmed,HB,2021-12-25 10:13:14.000000 +00:00,"La Santa Maria Building,
+1st Floor, A-block,
+Near Bhoiwada Police station, Parel."
+289,Phani Teja Gaddam,9493166380,phanitejagaddam02@gmail.com,order_IbY2Ja3yGl9aKP,pay_IbY2c3bYnGdH1e,XXL,Confirmed,HB,2021-12-25 08:17:05.000000 +00:00,"3-9-505,Reddy Colony"
+290,Rishit Saiya,+919619708003,rishitsaiya@gmail.com,order_IbBkyQnWil4hpE,pay_IbBljcgMJapjrg,S,Confirmed,TR,2021-12-24 10:29:51.000000 +00:00,"A/702, Amrutanubhav Society,
+Kesarbaug Lane, Mulund (East)"
+291,Rishit Saiya,+919619708003,rishitsaiya@gmail.com,order_IbBkyQnWil4hpE,pay_IbBljcgMJapjrg,S,Confirmed,TW,2021-12-24 10:29:51.000000 +00:00,"A/702, Amrutanubhav Society,
+Kesarbaug Lane, Mulund (East)"
+292,Rishit Saiya,+919619708003,rishitsaiya@gmail.com,order_IbBkyQnWil4hpE,pay_IbBljcgMJapjrg,S,Confirmed,TB21,2021-12-24 10:29:51.000000 +00:00,"A/702, Amrutanubhav Society,
+Kesarbaug Lane, Mulund (East)"
+293,Rishit Saiya,+919619708003,rishitsaiya@gmail.com,order_IbBkyQnWil4hpE,pay_IbBljcgMJapjrg,S,Confirmed,HB,2021-12-24 10:29:51.000000 +00:00,"A/702, Amrutanubhav Society,
+Kesarbaug Lane, Mulund (East)"
+294,Ashutosh ,6393457164,190020008@iitdh.ac.in,order_IbN2HQWbSo3Nw6,pay_IbN7mA4dX6NVPZ,M,Confirmed,HB,2021-12-24 21:36:21.000000 +00:00,"521/29
+bada chand ganj"
+295,Chirag J Maragal,9636488473,190020014@iitdh.ac.in,order_IblX0xWXjt3jOA,pay_IblXu3gY1Am1c2,L,Confirmed,HB,2021-12-25 21:29:43.000000 +00:00,"Basava Prakash, 1st main, 2nd cross, Bharatinagar"
+296,Sripriya Pokuri,9100411470,180010025@iitdh.ac.in,order_Ic6haOHn2JyIdc,pay_Ic6iNqiZvJulEQ,L,Confirmed,HB,2021-12-26 18:12:13.000000 +00:00,"D.N0: 53-4-777, Venkataraopeta 3rd line ,Guntur."
+297,Saurabh Ratnaparkhi,+917666353290,saurabhratnaparkhi11@gmail.com,order_IbKrU1BuP9XnGP,pay_IbKrlQvKPy5DlE,L,Confirmed,TR,2021-12-24 19:23:48.000000 +00:00,"Kapila Nagar, Siddhi Vinayak Colony, Gourakshan Road"
+298,Saurabh Ratnaparkhi,+917666353290,saurabhratnaparkhi11@gmail.com,order_IbKrU1BuP9XnGP,pay_IbKrlQvKPy5DlE,L,Confirmed,TW,2021-12-24 19:23:48.000000 +00:00,"Kapila Nagar, Siddhi Vinayak Colony, Gourakshan Road"
+299,Saurabh Ratnaparkhi,+917666353290,saurabhratnaparkhi11@gmail.com,order_IbKrU1BuP9XnGP,pay_IbKrlQvKPy5DlE,L,Confirmed,TB21,2021-12-24 19:23:48.000000 +00:00,"Kapila Nagar, Siddhi Vinayak Colony, Gourakshan Road"
+300,Saurabh Ratnaparkhi,+917666353290,saurabhratnaparkhi11@gmail.com,order_IbKrU1BuP9XnGP,pay_IbKrlQvKPy5DlE,L,Confirmed,HB,2021-12-24 19:23:48.000000 +00:00,"Kapila Nagar, Siddhi Vinayak Colony, Gourakshan Road"
+305,A.Venkata siva sai,9391243939,190010009@iitdh.ac.in,order_IbgKSVHU3Pu1Nq,pay_IbgLkiZaQyEGhz,XXL,Confirmed,HB,2021-12-25 16:24:45.000000 +00:00,"D.No: 20-2-889, 2nd floor, walkers road, Mulapet, Nellore-3"
+304,Karunakar Cheekolu,7993962252,170010020@iitdh.ac.in,order_IbKm1UL0YKOdIe,pay_IbKmahgwRdz8wC,XL,Confirmed,HB,2021-12-24 19:18:55.000000 +00:00,"Door.NO.: 10-3-28, Medurivari street, opposite Lutheran Church.
+Ramarao pet."
+306,Karthik Kancharla,9100168262,karthikkancharla2002@gmail.com,order_Ic6Ks9ZH8qNZMV,pay_Ic6LWEcsuNvGHX,M,Confirmed,TR,2021-12-26 17:50:34.000000 +00:00,"Flat 501, Vagwi Pride Park, Sai Hills, Gokul Plots, Plot 86,87, KPHB Phase 9, KPHB"
+307,Karthik Kancharla,9100168262,karthikkancharla2002@gmail.com,order_Ic6Ks9ZH8qNZMV,pay_Ic6LWEcsuNvGHX,M,Confirmed,TW,2021-12-26 17:50:34.000000 +00:00,"Flat 501, Vagwi Pride Park, Sai Hills, Gokul Plots, Plot 86,87, KPHB Phase 9, KPHB"
+308,Sohan Anisetty,9820687340,180030040@iitdh.ac.in,order_IbNktjOurH1ob8,pay_IbNnMRsx8Ttbtw,M,Confirmed,TR,2021-12-24 22:15:43.000000 +00:00,"A-403, Mahavir Vaibhav
+sector-11, plot -13, Koparkhairane"
+309,Sohan Anisetty,9820687340,180030040@iitdh.ac.in,order_IbNktjOurH1ob8,pay_IbNnMRsx8Ttbtw,M,Confirmed,TW,2021-12-24 22:15:43.000000 +00:00,"A-403, Mahavir Vaibhav
+sector-11, plot -13, Koparkhairane"
+310,Sohan Anisetty,9820687340,180030040@iitdh.ac.in,order_IbNktjOurH1ob8,pay_IbNnMRsx8Ttbtw,M,Confirmed,TB21,2021-12-24 22:15:43.000000 +00:00,"A-403, Mahavir Vaibhav
+sector-11, plot -13, Koparkhairane"
+311,Putti Gowtham Sai,9390291911,190010036@iitdh.ac.in,order_IbNKtjOUrH5ob8,pay_ItNnMFsx2Htbbw,XL,Confirmed,TR,2021-12-24 22:15:43.000000 +00:00,"Flat No. 401, Krishna Sai Residency, Behind Volvo Office, Seethammadhara North Extension Layout, Visakhapatnam"
+312,Putti Gowtham Sai,9390291911,190010036@iitdh.ac.in,order_IbNKtjOUrH5ob8,pay_ItNnMFsx2Htbbw,XL,Confirmed,TW,2021-12-24 22:15:43.000000 +00:00,"Flat No. 401, Krishna Sai Residency, Behind Volvo Office, Seethammadhara North Extension Layout, Visakhapatnam"
+313,Putti Gowtham Sai,9390291911,190010036@iitdh.ac.in,order_IbNKtjOUrH5ob8,pay_ItNnMFsx2Htbbw,XL,Confirmed,TB21,2021-12-24 22:15:43.000000 +00:00,"Flat No. 401, Krishna Sai Residency, Behind Volvo Office, Seethammadhara North Extension Layout, Visakhapatnam"
+314,Putti Gowtham Sai,9390291911,190010036@iitdh.ac.in,order_IbNKtjOUrH5ob8,pay_ItNnMFsx2Htbbw,XL,Confirmed,HB,2021-12-24 22:15:43.000000 +00:00,"Flat No. 401, Krishna Sai Residency, Behind Volvo Office, Seethammadhara North Extension Layout, Visakhapatnam"
+301,Vaishnavi Patil,7038411894,180020039@iitdh.ac.in,order_IcpoRhBb4V4RaB,pay_IcpqHO5dn2dMRy,XS,Confirmed,TR,2021-12-28 14:20:54.000000 +00:00,"Flat no. D-12,Parsvnath Pratishtha,Purnanagar,Chinchwad,Pune"
+302,Vaishnavi Patil,7038411894,180020039@iitdh.ac.in,order_IcpoRhBb4V4RaB,pay_IcpqHO5dn2dMRy,XS,Confirmed,TW,2021-12-28 14:20:54.000000 +00:00,"Flat no. D-12,Parsvnath Pratishtha,Purnanagar,Chinchwad,Pune"
+315,Prajwal Paloju,9010516635,190030030@iitdh.ac.in,order_IbgktJOurH5ob8,pay_ISNnnRsx7HEbBw,M,Confirmed,TW,2021-12-24 22:15:43.000000 +00:00,"Plot no. 47/E (east part), Near :Old Rohith School, Snehamai nagar, Vanasthalipuram, Hyderabad - 500070"
+316,Prajwal Paloju,9010516635,190030030@iitdh.ac.in,order_IbgktJOurH5ob8,pay_ISNnnRsx7HEbBw,M,Confirmed,TR,2021-12-24 22:15:43.000000 +00:00,"Plot no. 47/E (east part), Near :Old Rohith School, Snehamai nagar, Vanasthalipuram, Hyderabad - 500070"
+317,Prajwal Paloju,9010516635,190030030@iitdh.ac.in,order_IbgktJOurH5ob8,pay_ISNnnRsx7HEbBw,M,Confirmed,TB21,2021-12-24 22:15:43.000000 +00:00,"Plot no. 47/E (east part), Near :Old Rohith School, Snehamai nagar, Vanasthalipuram, Hyderabad - 500070"
+318,Prajwal Paloju,9010516635,190030030@iitdh.ac.in,order_IbgktJOurH5ob8,pay_ISNnnRsx7HEbBw,M,Confirmed,HB,2021-12-24 22:15:43.000000 +00:00,"Plot no. 47/E (east part), Near :Old Rohith School, Snehamai nagar, Vanasthalipuram, Hyderabad - 500070"
+319,Aryan Chollera,8850078858,190020007@iitdh.ac.in,order_IffAcweFxsWron,pay_IffB5IKpIvuwEO,L,Confirmed,HB,2022-01-04 17:51:58.000000 +00:00,"193/702, Suraj Residency, Jawahar Nagar, Goregaon(West)"
+283,Mohammed Huzaif Barkati,9170221142,190030028@iitdh.ac.in,order_Ibb3W1pwPINpia,pay_Ibb3rnqqKDAxN4,L,Confirmed,HB,2021-12-25 11:14:21.000000 +00:00,"Nisar Ahmad, Mohalla Azad Nagar, Town Post Amraudha,  Kanpur Dehat, UP-209112."
+207,Battina Pushpa Parvathi,7013798259,210010009@iitdh.ac.in,order_Ibf0MYrV52Qp86,pay_Ibf3h9T8azLlU1,S,Confirmed,TB21,2021-12-25 15:08:58.000000 +00:00,
+205,Battina Pushpa Parvathi,7013798259,210010009@iitdh.ac.in,order_Ibf0MYrV52Qp86,pay_Ibf3h9T8azLlU1,M,Confirmed,HB,2021-12-25 15:08:58.000000 +00:00,
+206,Battina Pushpa Parvathi,7013798259,210010009@iitdh.ac.in,order_Ibf0MYrV52Qp86,pay_Ibf3h9T8azLlU1,S,Confirmed,TW,2021-12-25 15:08:58.000000 +00:00,
+228,Abhinav Chinnusamy,08903683937,200020001@iitdh.ac.in,order_IbeEgpCXSotXRV,pay_IbeEomfeGU8Fd7,S,Confirmed,HB,2021-12-25 14:20:48.000000 +00:00,
+202,Jaya Surya Putti,6305692471,210020040@iitdh.ac.in,order_IbL0DsyhyPBuOL,pay_IbL1XVSX82ZY4B,M,Delivered,TB21,2021-12-24 19:33:04.000000 +00:00,
