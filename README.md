@@ -1,6 +1,6 @@
 # iitdh-merch-backend
 
-This website is to check the orders placed by the customers adn mark the orders as delivered by the agent.
+This website is to check the orders placed by the customers and mark the orders as delivered by the agent.
 
 This repo is a backend repo for the website.
 
