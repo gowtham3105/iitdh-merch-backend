@@ -6,6 +6,8 @@ This repo is a backend repo for the website.
 
 We have used django framework for the backend.
 
+Website Link: https://iitdh-merch.herokuapp.com/
+
 ---
 
 ### Setup
